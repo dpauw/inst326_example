@@ -8,3 +8,6 @@ class Person:
         name(str): The person's name
         connections (set of Person): Other peoplein the class that know this person.
     """
+
+class classmate:
+    """ Docstring """
