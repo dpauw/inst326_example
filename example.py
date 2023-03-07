@@ -1,4 +1,4 @@
-""" This is a simple example of using Git for INST 326
+""" This is a simple example of using Git for INST 326.
 """
 
 class Person:
