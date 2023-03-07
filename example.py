@@ -9,5 +9,5 @@ class Person:
         connections (set of Person): Other peoplein the class that know this person.
     """
 
-class School:
+class classmate:
     """ Docstring """
